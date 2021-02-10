@@ -1,4 +1,6 @@
-# README
+# Udemy - Ruby Gems Bootcamp
+
+https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
